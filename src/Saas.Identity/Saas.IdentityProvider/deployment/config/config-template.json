@@ -41,8 +41,8 @@
     }
   },
   "azureb2c": {
-    "signedOutCallBackPath": "/signout/B2C_1_SIGNUP_SIGNIN",
-    "signUpSignInPolicyId": "B2C_1_SIGNUP_SIGNIN",
+    "signedOutCallBackPath": "/signout/B2C_1A_SIGNUP_SIGNIN",
+    "signUpSignInPolicyId": "B2C_1A_SIGNUP_SIGNIN",
     "policyKeys": [
       {
         "name": "TokenSigningKeyContainer",
