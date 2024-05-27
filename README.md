@@ -61,3 +61,10 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 # License
 The Azure SaaS Development Kit is licensed under the MIT license. See the LICENSE file for more details.
+
+
+# Problems:
+
+Correlation ID: 999d5dd9-e5cc-4eac-a394-c8bddb3da024 Timestamp: 2024-05-26 21:07:51Z AADB2C90068: The provided application with ID '09b41508-b232-4c36-beee-448f80d5dc84' is not valid against this service. Please use an application created via the B2C portal and try again.
+
+
